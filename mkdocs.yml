@@ -1,0 +1,8 @@
+site_name: Dynamo
+pages:
+- Home: index.md
+- API:
+    - Dynamo.DocumentationTestLibrary:
+      - 'Person' : 'Dynamo_DocumentationTestLibrary/Person.md'
+      - 'TestDocumentation' : 'Dynamo_DocumentationTestLibrary/TestDocumentation.md'
+theme: readthedocs
